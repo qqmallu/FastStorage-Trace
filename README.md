@@ -26,5 +26,5 @@ Each project I build helps me grow both technically and professionally, and I lo
 
 ## My Projects
 
-- [Customer Churn Prediction](https://github.com/qqmallu/customer-churn)
-- [fastStorage trace](https://github.com/qqmallu/fastStorage-trace)
+- [Customer Churn Prediction](https://github.com/qqmallu/Customer_Churn)
+- [fastStorage trace](https://github.com/qqmallu/FastStorage-Trace)
